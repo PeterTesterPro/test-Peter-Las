@@ -1,0 +1,489 @@
+{
+  "category_race_map": {
+    "161d9be2-e909-4326-8c2c-35ed71fb460b": {
+      "race_ids": [
+        "2935b73a-0bdb-48d3-8489-1752029e724d",
+        "7f3a921e-15eb-4bd4-a500-a1b7d79eff42",
+        "5d25edbc-70d8-4d72-a65a-4bb7b4a6e583",
+        "c772aa86-e332-4838-810b-4b9868923ba0",
+        "291e4f11-f941-4841-b2fc-b7fc0a270bc1"
+      ]
+    },
+    "4a2788f8-e825-4d36-9894-efd4baf1cfae": {
+      "race_ids": [
+        "0e3183f6-d023-4fcd-9fc6-69de29bdbdb1",
+        "6cb32c87-8825-4275-9d07-deed4f72a999",
+        "b950320b-5d5a-427b-86ee-65f5b75d022c",
+        "c4172192-d399-46b4-96b5-33af536c4fbc",
+        "f1305cd5-5c9a-44e6-b662-cec09ddf5a95"
+      ]
+    },
+    "9daef0d7-bf3c-4f50-921d-8e818c60fe61": {
+      "race_ids": [
+        "66badd77-0963-4a77-9a01-cd2d631ba033",
+        "80a1a0cc-b830-47e7-afe3-23530658cda0",
+        "091d861b-0d2a-4d6c-8090-fb6578432151",
+        "3d185636-4a04-4ab1-aba6-cbfb1dd6189f",
+        "4b073fe3-ab24-4a05-aaa3-882198372d80"
+      ]
+    }
+  },
+  "race_summaries": {
+    "091d861b-0d2a-4d6c-8090-fb6578432151": {
+      "race_id": "091d861b-0d2a-4d6c-8090-fb6578432151",
+      "race_name": "Norfolk Butchers",
+      "race_number": 4,
+      "meeting_id": "ad44dd54-7ae6-437a-8691-47fb08eb867e",
+      "meeting_name": "Warrnambool",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": "2023-08-03T08:13:00Z",
+      "race_form": {
+        "distance": 390,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "MILKMAN NEIL (2) turned in a fair 5th placed finish last time at this track over 390m (22.29). Solid record here at the distance winning three races. His PB at this course and distance is a slick 22.16. Worth another chance. STRESS TEST (8) had a tough draw to overcome and was game in defeat when only half a length from Maddie Odd Sock in second (25.77) at this track. Expected to be in the finish again. MYOLA SUNRISE (1) turned in a plain performance last time when sixth at this track over 390m behind Slingshot Hogan (22.57) in a Grade 5. Placed at her previous run. Has ability and can measure up. GASTROCNEMIUS (4) is among the chances again if he runs up to the latest effort.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Warrnambool\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "a22fd48a-e601-46af-afca-349a5d706bca",
+      "venue_name": "Warrnambool",
+      "venue_state": "VIC",
+      "venue_country": "AUS"
+    },
+    "0e3183f6-d023-4fcd-9fc6-69de29bdbdb1": {
+      "race_id": "0e3183f6-d023-4fcd-9fc6-69de29bdbdb1",
+      "race_name": "Race 6 - 1200",
+      "race_number": 6,
+      "meeting_id": "d67fd885-b19c-4ac2-9246-65c12ab1500b",
+      "meeting_name": "Tokyo City Keiba",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2023-08-03T08:10:00Z",
+      "race_form": {
+        "distance": 1200,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "BEE UP (14) was a dominant winner last time at this track over the same distance and will be fitter again third up. Record here is good with four wins and four placings from 11 starts. Top chance. SHARK SHINY (13) bounced straight to the front from the rails draw last start and led for home before finishing third over 1200m at this track, continuing a run of wins and placings. May take catching. DERMA SEIREN (2) improved last start but found a couple better over 1000m at this track after being in contention on the turn. Has the ability to build on that encouraging effort last start. SAPPHIRE SARAH (7) showed improvement in the latest effort for fourth over 1200m at this track and can progress further.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Tokyo City Keiba\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "d8e494b0-2c26-4b07-9639-fc458a893156",
+      "venue_name": "Tokyo City Keiba",
+      "venue_state": "JPN",
+      "venue_country": "JPN"
+    },
+    "291e4f11-f941-4841-b2fc-b7fc0a270bc1": {
+      "race_id": "291e4f11-f941-4841-b2fc-b7fc0a270bc1",
+      "race_name": "Betavet Support Ni Stallion Night Mobile Pace",
+      "race_number": 8,
+      "meeting_id": "9aca0f1f-68c8-4df9-bb83-5d2256ef51dd",
+      "meeting_name": "Alexandra Park",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": "2023-08-03T08:34:00Z",
+      "race_form": {
+        "distance": 2200,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Fast",
+          "short_name": "fast"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "NELSON'S BOY (2) wasn't beaten all that far two runs back at this track then got the win he deserved last start over 2200m at this track, arriving 1.1 metres ahead of the runner-up. That was a big effort last start and he can go back-to-back here. LINCOLN RIVER (6) returns to the scene of his last run when victorious over this trip, getting home by 3 metres. Tackles a similar assignment and he can get the job done again. BETTOR HEIST (5) comes right into contention after scoring last start by 7 metres at Cambridge over 2200m. SMOKINHOTCHEDDAR (9) is in the mix following a respectable third at her most recent appearance over 2200m at this track. Include in all multiples.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "a55c9368-7bb7-450b-a74a-4098bb0e7c52",
+      "venue_name": "Alexandra Park",
+      "venue_state": "NZ",
+      "venue_country": "NZ",
+      "video": {
+        "channel": {
+          "channel_id": "2c184b7b-69fd-4ca8-b342-11021a010d69"
+        }
+      }
+    },
+    "2935b73a-0bdb-48d3-8489-1752029e724d": {
+      "race_id": "2935b73a-0bdb-48d3-8489-1752029e724d",
+      "race_name": "Ladbroke It! Pace",
+      "race_number": 10,
+      "meeting_id": "563c061b-79f1-49cc-b64a-5a74db4ae116",
+      "meeting_name": "Redcliffe",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": "2023-08-03T08:02:00Z",
+      "race_form": {
+        "distance": 1780,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "ODINS BLACK CROWS (2) drew a wide gate last start and was easily accounted for, beaten 17 metres into ninth at Albion Park over 1660m. Leading hope from this favourable draw if anywhere near his best. MILLIE FRANCIS (5) made it two wins and a minor placing from her last three starts when she scored by 13 metres on July 13 over 1780m at this track. Her last-start form is good enough to take out a race like this. NOT THE KINGSWOOD (9) is a great chance after a string of sound recent performances, the latest a solid third at Albion Park over 1660m. Hard to find fault. FAIREACHDAINN (1) could only finish ninth over 1780m at this track most recently. In the mix if she can recapture her best form.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Redcliffe\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":10,\"race_name\":\"Ladbroke It! Pace\",\"time\":\"2023-08-03T08:02:00Z\"}}"
+      },
+      "venue_id": "218b33c5-342d-47bc-bbef-05546ca8dacb",
+      "venue_name": "Redcliffe",
+      "venue_state": "QLD",
+      "venue_country": "AUS",
+      "video": {
+        "channel": {
+          "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+        }
+      }
+    },
+    "3d185636-4a04-4ab1-aba6-cbfb1dd6189f": {
+      "race_id": "3d185636-4a04-4ab1-aba6-cbfb1dd6189f",
+      "race_name": "525 Yds (A7)",
+      "race_number": 5,
+      "meeting_id": "7e93a8dd-6813-42fc-a034-887df7c04a6a",
+      "meeting_name": "Waterford",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": "2023-08-03T08:18:00Z",
+      "race_form": {
+        "distance": 525,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "race_comment": "FRED THECOOPER (2) showed little early speed at his last couple, the latest finishing sixth (30.35) in an A7 at this track. Worth another chance. WHITEYS MIDNIGHT (1) has been out of the placings the last couple but was an A7 winner (29.96) three back at this track. Well placed here and can atone this time. ALMIGHTY MO (4) has a moderate overall strike-rate. Finished in the minors latest when third (29.93) at this track and may be close to breaking through. Expected to be in the finish again. AVALON PESTANA (3) was strongly supported last start but missed the frame when fifth (30.84), beaten 17 lengths.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Waterford\",\"state\":\"IRE\",\"country\":\"IRE\",\"number\":5,\"race_name\":\"525 Yds (A7)\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "9967e496-90ed-4190-9252-224614083ea0",
+      "venue_name": "Waterford",
+      "venue_state": "IRE",
+      "venue_country": "IRE",
+      "video": {
+        "channel": {
+          "channel_id": "2c184b7b-69fd-4ca8-b342-11021a010d69"
+        }
+      }
+    },
+    "4b073fe3-ab24-4a05-aaa3-882198372d80": {
+      "race_id": "4b073fe3-ab24-4a05-aaa3-882198372d80",
+      "race_name": "Suck It Up Ltd Sprint Heat 2",
+      "race_number": 11,
+      "meeting_id": "9db024b5-00b7-4e57-8176-c5ebe93e2336",
+      "meeting_name": "Addington",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": "2023-08-03T08:21:00Z",
+      "race_form": {
+        "distance": 295,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "ALTERNATE SHOT (6) goes very well this trip starting 62 times for 25 wins and 17 minors. Below best last time at this track (17.44) in a Class 5, finishing a 5.5 lengths fifth. Can feature with the right run. PICK AND GO (1) has a strong overall record having 16 wins and nine places from 37 starts but was out of the money last time when sixth (22.88) over 390m at Ascot Park. Form here at this distance is sound. Has the ability and rates a key chance in this line-up. SMASH WAVE (7) was placed last time and cannot be ignored. Each-way.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "a1189bc2-f3ed-4b72-a8fd-cbc67ac1f13c",
+      "venue_name": "Addington",
+      "venue_state": "NZ",
+      "venue_country": "NZ",
+      "video": {
+        "channel": {
+          "channel_id": "2c184b7b-69fd-4ca8-b342-11021a010d69"
+        }
+      }
+    },
+    "5d25edbc-70d8-4d72-a65a-4bb7b4a6e583": {
+      "race_id": "5d25edbc-70d8-4d72-a65a-4bb7b4a6e583",
+      "race_name": "Wednesday Markets @ Penrith Showground Pace",
+      "race_number": 1,
+      "meeting_id": "799be62e-ca8c-4faf-961f-d5406e6389f0",
+      "meeting_name": "Penrith",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": "2023-08-03T08:15:00Z",
+      "race_form": {
+        "distance": 1720,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Fast",
+          "short_name": "fast"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "ROLL WITH SLOY (6) has been performing well at this venue, missing by just a head in her last two appearances and winning the previous two times she raced here. Came from the back row last time and returns to the front line tonight so can atone. MERRYWOOD TONY (5) has returned in good order, scoring fresh at Newcastle before finishing second there last start. Won his only third-up attempt so should be peaking and his circuit and distance statistics are strong. Threat. CRIMSON ROCK (7) has recorded back-to-back wins at this circuit and distance, last time sitting parked but digging deep. With even luck from the second row she could land the hat trick. LA VISTA (3) can improve returning to the front line.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "f00be2d6-0109-4fb4-bda8-8dee3a759d51",
+      "venue_name": "Penrith",
+      "venue_state": "NSW",
+      "venue_country": "AUS"
+    },
+    "66badd77-0963-4a77-9a01-cd2d631ba033": {
+      "race_id": "66badd77-0963-4a77-9a01-cd2d631ba033",
+      "race_name": "Download The Watchdog App",
+      "race_number": 11,
+      "meeting_id": "595a8d63-ad6e-4fb9-b2d7-1a59f86070a7",
+      "meeting_name": "Warragul",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": "2023-08-03T08:07:00Z",
+      "race_form": {
+        "distance": 400,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "COALVILLE GIRL (6) was responsible for a modest effort most recently when seventh at this track over 400m behind Mr. Larson (23.76) in a T3 Grade 6. Rates on top in this line up. WHIZZER (7) turned in a modest effort most recently when seventh at Traralgon over 350m behind Barry Jakit (20.49) in a T3 Grade 6. Was a winner at his only start from this draw. Can do much better this time. STARTER'S KING (2) was prominent early from the tricky draw and did a fair job to be beaten 2.75 lengths into second (23.32) at this track in a Mix 6/7 over 400m. Likely to be in the finish again. WINTER STORM (4) was unplaced here last start but gets her chance to atone.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Warragul\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":11,\"race_name\":\"Download The Watchdog App\",\"time\":\"2023-08-03T08:07:00Z\"}}"
+      },
+      "venue_id": "d0acc1ca-3548-4719-9145-a892a1e6e1c0",
+      "venue_name": "Warragul",
+      "venue_state": "VIC",
+      "venue_country": "AUS"
+    },
+    "6cb32c87-8825-4275-9d07-deed4f72a999": {
+      "race_id": "6cb32c87-8825-4275-9d07-deed4f72a999",
+      "race_name": "Race 10 - 1230",
+      "race_number": 10,
+      "meeting_id": "df992cdf-930b-4a62-b4ff-760536ffd80d",
+      "meeting_name": "Sonoda",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2023-08-03T08:20:00Z",
+      "race_form": {
+        "distance": 1230,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "race_comment": "MEINER WALTZ (9) turned in a modest performance when tenth last start over 820m at this track, beaten 5 lengths. That followed a good first-up win at this track. Looks well placed so expect a better run this time. CAN I SING (1) was well fancied last start over 1230m at this track when third, beaten 4.5 lengths. Yamamotoya Taizo stays aboard. Well placed and should be in the finish. GIRO (6) ran below expectations last time at this track over 1230m, finishing seventh and beaten 6 lengths. Has the pace to settle in the leading division. Should be involved in the finish. MUMTY HAT (8) was comfortably accounted for when eighth last time out over 1400m at this track, beaten 6 lengths, after a win at this track at the previous outing. In contention this time.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "6916e1a3-1754-41cd-91a4-484f336aec64",
+      "venue_name": "Sonoda",
+      "venue_state": "JPN",
+      "venue_country": "JPN"
+    },
+    "7f3a921e-15eb-4bd4-a500-a1b7d79eff42": {
+      "race_id": "7f3a921e-15eb-4bd4-a500-a1b7d79eff42",
+      "race_name": "Nzb Standardbred Support Stallion Night Mbl Pace",
+      "race_number": 7,
+      "meeting_id": "9aca0f1f-68c8-4df9-bb83-5d2256ef51dd",
+      "meeting_name": "Alexandra Park",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": "2023-08-03T08:09:00Z",
+      "race_form": {
+        "distance": 1700,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Fast",
+          "short_name": "fast"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "TWISTA (8) made a good start to his career seven weeks ago, beaten 10 metres into third over 1609m at this track. Must overcome a very wide draw but looks to be a tough type who shouldn't be in this grade for long. KADA (1) finished 8 metres from the winner in second at this track over 1700m last start at her first career run. Has the benefit of a good draw. Must raise the bar but a win is not out of the question. SEASIDE ROSE (2) was easily accounted for when seventh over 1609m at this track recently at her first race start. Strips fitter and can improve. LEO LINCOLN (9) is worth some thought despite his last-start sixth over 2200m at this track on June 29 and if the gaps come his way he can run into the money.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Alexandra Park\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "a55c9368-7bb7-450b-a74a-4098bb0e7c52",
+      "venue_name": "Alexandra Park",
+      "venue_state": "NZ",
+      "venue_country": "NZ",
+      "video": {
+        "channel": {
+          "channel_id": "2c184b7b-69fd-4ca8-b342-11021a010d69"
+        }
+      }
+    },
+    "80a1a0cc-b830-47e7-afe3-23530658cda0": {
+      "race_id": "80a1a0cc-b830-47e7-afe3-23530658cda0",
+      "race_name": "Farrell's Dog Biscuits",
+      "race_number": 10,
+      "meeting_id": "3a020aef-6f8b-4603-96ff-fa9d64bb649c",
+      "meeting_name": "Gunnedah",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": "2023-08-03T08:10:00Z",
+      "race_form": {
+        "distance": 340,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "RUTLAND BELLA (8) was sent out long odds last time but rocketed out of the boxes with a fast early sectional and gave a sight before being swallowed up late, finishing a 2 length third (19.87) over 340m at this track. Her PB at this course and distance is a convincing 19.47. Rates highly and will give a great sight. BETTY BUSH (6) missed the frame last time when fourth (19.92) at this track but prior to that had two placings in a row. Has a good record at this journey. Better than the latest run and deserves another chance. PHASE FOUR (1) is in the mix after placing at a big quote last time out.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Gunnedah\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":10,\"race_name\":\"Farrell's Dog Biscuits\",\"time\":\"2023-08-03T08:10:00Z\"}}"
+      },
+      "venue_id": "bc9ab141-acf7-4043-a031-d2b03bba5b36",
+      "venue_name": "Gunnedah",
+      "venue_state": "NSW",
+      "venue_country": "AUS",
+      "video": {
+        "channel": {
+          "channel_id": "2c184b7b-69fd-4ca8-b342-11021a010d69"
+        }
+      }
+    },
+    "b950320b-5d5a-427b-86ee-65f5b75d022c": {
+      "race_id": "b950320b-5d5a-427b-86ee-65f5b75d022c",
+      "race_name": "Peter Mckean \u0026 Mike Wilson-C3",
+      "race_number": 7,
+      "meeting_id": "a67c41a7-33a6-4fca-b80a-9a2e285871f3",
+      "meeting_name": "Pinjarra",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2023-08-03T08:20:00Z",
+      "race_form": {
+        "distance": 1200,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Soft7",
+          "short_name": "soft7"
+        },
+        "weather": {
+          "name": "OCAST"
+        },
+        "race_comment": "FLY AWAY HOME (3) resumes and has raced his last three at Listed level over a mile and longer. He has run some nice races in town at this distance range and gets in well with the 2kg claim. He's trialled well and no surprise if he's more forward this time around. GALAXY CAT (1) placed this grade at Belmont second-up quickly back to her best. Races forward and keeps the 2kg claim. A consistent galloper with claims. STORM LORD (6) is hard to catch but the near miss here two-back reads well. He will enjoy a soft run from the low barrier and the winkers are applied the first time. THE COOLAKIN KING (8) won here first up from the front but has been plainer the two since. Has ability and no surprise if he gives a sight.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Pinjarra\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "10f8d87a-2a87-452c-ba2b-8a98fc9a5898",
+      "venue_name": "Pinjarra",
+      "venue_state": "WA",
+      "venue_country": "AUS"
+    },
+    "c4172192-d399-46b4-96b5-33af536c4fbc": {
+      "race_id": "c4172192-d399-46b4-96b5-33af536c4fbc",
+      "race_name": "Race 7 - 1700",
+      "race_number": 7,
+      "meeting_id": "3f4d4910-ae78-457a-95e0-8ae0dc83f03a",
+      "meeting_name": "Monbetsu",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2023-08-03T08:35:00Z",
+      "race_form": {
+        "distance": 1700,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "race_comment": "B B CHANCE (5) scored two back at this track but was below his best last time when fifth over 1200m at this track after being prominent at the corner. Well placed and there is no reason he cannot find winning ways. KIC NOIR DE JAIS (9) raced on the speed and lifted to score by 1.5 lengths at this track and distance last start to maintain his good form of late. Finds another suitable race and can maintain winning form. GOURMANDE (1) turned in a sub-par run last time out over 1600m at this track after a nice win the start prior. Looks well placed so expect a big run this time. COOL GIBBS (4) is experiencing a long win drought, extended last start when fifth over 1600m at this track. Nicely placed to turn things around.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "94b8b32d-4ab9-42b8-9210-685099dae442",
+      "venue_name": "Monbetsu",
+      "venue_state": "JPN",
+      "venue_country": "JPN"
+    },
+    "c772aa86-e332-4838-810b-4b9868923ba0": {
+      "race_id": "c772aa86-e332-4838-810b-4b9868923ba0",
+      "race_name": "Haras Des Trotteurs Nutrien Equine Classic (3Yo Trotting Fillies) (2Nd Heat)",
+      "race_number": 3,
+      "meeting_id": "2cedc108-208f-45e5-af41-9e29e3ea29c1",
+      "meeting_name": "Kilmore",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": "2023-08-03T08:30:00Z",
+      "race_form": {
+        "distance": 2180,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "SHES RUBY ROO (2) has had a month off since breaking in a G2 in Sydney and has been back to the trials. Well placed against the fillies and has good statistics at the circuit and the distance so if she gets it right she could be hard to beat. BELLE NEIGE (4) is a daughter of Love You on debut for the Golino stable. Looked above average when winning a trial at Melton. Expect a strong showing. IZARRA (3) is going well having kicked off her campaign with a win at Maryborough before a last-start second. Race fit and well drawn.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "48a28e97-f247-470a-bf5b-860d68492bc3",
+      "venue_name": "Kilmore",
+      "venue_state": "VIC",
+      "venue_country": "AUS"
+    },
+    "f1305cd5-5c9a-44e6-b662-cec09ddf5a95": {
+      "race_id": "f1305cd5-5c9a-44e6-b662-cec09ddf5a95",
+      "race_name": "Race 7 - 1600",
+      "race_number": 7,
+      "meeting_id": "d67fd885-b19c-4ac2-9246-65c12ab1500b",
+      "meeting_name": "Tokyo City Keiba",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": "2023-08-03T08:45:00Z",
+      "race_form": {
+        "distance": 1600,
+        "distance_type": {
+          "name": "Metres",
+          "short_name": "m"
+        },
+        "track_condition": {
+          "name": "Good",
+          "short_name": "good"
+        },
+        "weather": {
+          "name": "FINE"
+        },
+        "race_comment": "WIN RESERVE (6) is flying having scored at his last four starts, most recently by one length over 1600m at this track as favourite. That was his first visit to this venue. Big chance once again. RYUNO FOWLER (1) scored by 1.3 lengths last start over this journey at this track to continue a string of wins and placings. Has a solid record at this course and distance, including two wins and four placings. Definite winning hope. PALERMO (4) was sent out at long odds when resuming last time but ran above expectations to finish third, beaten only 1.3 lengths over 1600m at this track. Expected to be in the finish again. LEESAN EYE (8) comes here off a break of 12 weeks and was a winner here when last seen. Worth noting he filled a minor placing when returning from a spell last time in work over 1600m at this track. Go well.",
+        "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+      },
+      "venue_id": "d8e494b0-2c26-4b07-9639-fc458a893156",
+      "venue_name": "Tokyo City Keiba",
+      "venue_state": "JPN",
+      "venue_country": "JPN"
+    }
+  }
+}
